@@ -41,9 +41,9 @@
 
 <div align="center">
 
-![M4st3r_3's GitHub stats](https://github-readme-stats.vercel.app/api?username=inzamamraj-netizen&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=inzamamraj-netizen&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=ff5874&icon_color=ff5874&text_color=c9d1d9&border_color=21262d)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=inzamamraj-netizen&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=inzamamraj-netizen&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff5874&text_color=c9d1d9&border_color=21262d)
 
 </div>
 
@@ -53,7 +53,7 @@
 
 <div align="center">
 
-[![Calip](https://github-readme-stats.vercel.app/api/pin?username=inzamamraj-netizen&repo=calip&theme=radical&hide_border=true)](https://github.com/inzamamraj-netizen/calip)
+[![Calip](https://github-readme-stats.vercel.app/api/pin?username=inzamamraj-netizen&repo=calip&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff5874&text_color=c9d1d9&border_color=21262d)](https://github.com/inzamamraj-netizen/calip)
 
 </div>
 
