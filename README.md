@@ -41,7 +41,7 @@
 
 <div align="center">
 
-![M4st3r_3's GitHub stats](https://github-readme-stats.vercel.app/api?username=inzamamraj-netizen&show_icons=true&theme=radical&hide_border=true)
+![M4st3r_3's GitHub stats](https://github-readme-stats.vercel.app/api?username=inzamamraj-netizen&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=inzamamraj-netizen&layout=compact&theme=radical&hide_border=true)
 
@@ -49,21 +49,13 @@
 
 ---
 
-## 🏆 Trophies
+## 📌 Pinned Projects
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=inzamamraj-netizen&theme=radical&no-frame=true&no-bg=false&column=7)
+[![Calip](https://github-readme-stats.vercel.app/api/pin?username=inzamamraj-netizen&repo=calip&theme=radical&hide_border=true)](https://github.com/inzamamraj-netizen/calip)
 
 </div>
-
----
-
-## 📌 Pinned Projects
-
-<a href="https://github.com/inzamamraj-netizen/calip">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin?username=inzamamraj-netizen&repo=calip&theme=radical" />
-</a>
 
 ---
 
